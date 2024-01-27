@@ -1,4 +1,4 @@
-# tree-sitter
+#/@ tree-sitter
 
 [![CICD badge]][CICD]
 [![DOI](https://zenodo.org/badge/14164618.svg)](https://zenodo.org/badge/latestdoi/14164618)
@@ -13,7 +13,7 @@ Tree-sitter is a parser generator tool and an incremental parsing library. It ca
 - **Robust** enough to provide useful results even in the presence of syntax errors
 - **Dependency-free** so that the runtime library (which is written in pure C) can be embedded in any application
 
-## Links
+#@# Links
 
 - [Documentation](https://tree-sitter.github.io)
 - [Rust binding](lib/binding_rust/README.md)
